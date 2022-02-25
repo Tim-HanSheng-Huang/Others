@@ -1,2 +1,3 @@
-## Statistical Learning and Deep Learning(SLDL) Class Code
+## SLDL Class
 
+Statistical Learning and Deep Learning Class Code
